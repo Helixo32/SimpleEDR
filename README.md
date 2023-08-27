@@ -10,6 +10,10 @@ The aim of this project is to understand how EDRs implement this technique, and 
 
 
 # Usage
+- Dependencies
+  ```
+  nimble install winim
+  ```
 - Compilation
   - Linux
     ```
